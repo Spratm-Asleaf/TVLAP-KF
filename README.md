@@ -19,7 +19,7 @@ From the Department of Industrial Systems Engineering and Management, National U
 
 ***See Also***
 
-Please refer to another application-oriented paper for more details of using TVLAP-KF in practice: 
+Please refer to another application-oriented paper for more details and practical issues of using TVLAP-KF in practice: 
 
 https://github.com/Spratm-Asleaf/Range-Correction
 
