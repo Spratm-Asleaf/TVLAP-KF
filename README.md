@@ -12,7 +12,7 @@ Online supplementary materials of the paper titled
 
 **A Model for Non-Stationary Time Series and Its Applications in Filtering and Anomaly Detection**
 
-Published in the IEEE Transactions on Instrumentation and Measurement (DOI: [10.1109/TIM.2021.3059321](https://ieeexplore.ieee.org/document/9354187))
+Published in the _IEEE Transactions on Instrumentation and Measurement_ (DOI: [10.1109/TIM.2021.3059321](https://ieeexplore.ieee.org/document/9354187))
 
 By Shixiong Wang, Chongshou Li, and Andrew Lim
 
